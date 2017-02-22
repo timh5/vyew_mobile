@@ -1,5 +1,5 @@
-# vyew_mobile
+# Vyew Mobile
 Vyew Mobile XCode development (iOS and Android)
 
-
-Abandonned project for old vyew.com platform
+Vyew was a realtime collaboration platform that ran from 2002 to 2016.
+This is an abandonned project.
